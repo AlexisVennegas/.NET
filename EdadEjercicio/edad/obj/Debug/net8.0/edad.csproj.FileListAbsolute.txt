@@ -1,0 +1,15 @@
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\obj\Debug\net8.0\edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\obj\Debug\net8.0\edad.AssemblyInfoInputs.cache
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\obj\Debug\net8.0\edad.AssemblyInfo.cs
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\obj\Debug\net8.0\edad.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\obj\Debug\net8.0\edad.sourcelink.json
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\bin\Debug\net8.0\edad.exe
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\bin\Debug\net8.0\edad.deps.json
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\bin\Debug\net8.0\edad.runtimeconfig.json
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\bin\Debug\net8.0\edad.dll
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\bin\Debug\net8.0\edad.pdb
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\obj\Debug\net8.0\edad.dll
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\obj\Debug\net8.0\refint\edad.dll
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\obj\Debug\net8.0\edad.pdb
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\obj\Debug\net8.0\edad.genruntimeconfig.cache
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\EdadEjercicio\edad\obj\Debug\net8.0\ref\edad.dll
