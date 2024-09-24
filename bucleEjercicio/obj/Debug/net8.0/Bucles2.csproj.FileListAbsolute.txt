@@ -1,0 +1,14 @@
+C:\Users\Alexis\Desktop\proyectos\-net\Bucles2\bin\Debug\net8.0\Bucles2.exe
+C:\Users\Alexis\Desktop\proyectos\-net\Bucles2\bin\Debug\net8.0\Bucles2.deps.json
+C:\Users\Alexis\Desktop\proyectos\-net\Bucles2\bin\Debug\net8.0\Bucles2.runtimeconfig.json
+C:\Users\Alexis\Desktop\proyectos\-net\Bucles2\bin\Debug\net8.0\Bucles2.dll
+C:\Users\Alexis\Desktop\proyectos\-net\Bucles2\bin\Debug\net8.0\Bucles2.pdb
+C:\Users\Alexis\Desktop\proyectos\-net\Bucles2\obj\Debug\net8.0\Bucles2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\Desktop\proyectos\-net\Bucles2\obj\Debug\net8.0\Bucles2.AssemblyInfoInputs.cache
+C:\Users\Alexis\Desktop\proyectos\-net\Bucles2\obj\Debug\net8.0\Bucles2.AssemblyInfo.cs
+C:\Users\Alexis\Desktop\proyectos\-net\Bucles2\obj\Debug\net8.0\Bucles2.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\proyectos\-net\Bucles2\obj\Debug\net8.0\Bucles2.dll
+C:\Users\Alexis\Desktop\proyectos\-net\Bucles2\obj\Debug\net8.0\refint\Bucles2.dll
+C:\Users\Alexis\Desktop\proyectos\-net\Bucles2\obj\Debug\net8.0\Bucles2.pdb
+C:\Users\Alexis\Desktop\proyectos\-net\Bucles2\obj\Debug\net8.0\Bucles2.genruntimeconfig.cache
+C:\Users\Alexis\Desktop\proyectos\-net\Bucles2\obj\Debug\net8.0\ref\Bucles2.dll
