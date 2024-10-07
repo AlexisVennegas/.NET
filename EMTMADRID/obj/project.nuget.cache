@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u/MUQuSoMb8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\EMTMADRID\\EMTMADRID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexis\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

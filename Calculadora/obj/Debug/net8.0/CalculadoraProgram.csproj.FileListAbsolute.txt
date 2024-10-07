@@ -1,0 +1,15 @@
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\obj\Debug\net8.0\CalculadoraProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\obj\Debug\net8.0\CalculadoraProgram.AssemblyInfoInputs.cache
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\obj\Debug\net8.0\CalculadoraProgram.AssemblyInfo.cs
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\obj\Debug\net8.0\CalculadoraProgram.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\obj\Debug\net8.0\CalculadoraProgram.sourcelink.json
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\bin\Debug\net8.0\CalculadoraProgram.exe
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\bin\Debug\net8.0\CalculadoraProgram.deps.json
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\bin\Debug\net8.0\CalculadoraProgram.runtimeconfig.json
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\bin\Debug\net8.0\CalculadoraProgram.dll
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\bin\Debug\net8.0\CalculadoraProgram.pdb
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\obj\Debug\net8.0\CalculadoraProgram.dll
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\obj\Debug\net8.0\refint\CalculadoraProgram.dll
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\obj\Debug\net8.0\CalculadoraProgram.pdb
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\obj\Debug\net8.0\CalculadoraProgram.genruntimeconfig.cache
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Calculadora\obj\Debug\net8.0\ref\CalculadoraProgram.dll

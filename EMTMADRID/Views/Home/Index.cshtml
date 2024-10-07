@@ -1,0 +1,54 @@
+﻿@model EMTMADRID.Models.BusInputModel
+
+<h2>Introducir Detalles de Parada y Línea</h2>
+
+<!-- Formulario para capturar los inputs -->
+<form asp-action="Index" method="post">
+    <div class="form-group">
+        <label for="stopId">ID de la Parada</label>
+        <input type="number" class="form-control" id="stopId" name="StopId" value="@Model.StopId" required />
+    </div>
+    <div class="form-group">
+        <label for="lineArrive">Línea de Autobús</label>
+        <input type="number" class="form-control" id="lineArrive" name="LineArrive" value="@Model.LineArrive" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar</button>
+</form>
+<!-- Agregar un input oculto para almacenar la ubicación -->
+<input type="hidden" id="userLocation" name="UserLocation" />
+<!-- Mostrar mensajes de error si hay problemas -->
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <div class="alert alert-warning">
+        @ViewBag.Message
+    </div>
+}
+
+<!-- Si hay datos de llegadas, los mostramos en la misma página -->
+@if (Model.Arrive != null && Model.Arrive.Count > 0)
+{
+    <h3>Llegadas de autobuses</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Línea</th>
+                <th>Parada</th>
+                <th>Destino</th>
+                <th>Tiempo Estimado (minutos)</th>
+                <th>Distancia (metros)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var arrival in Model.Arrive)
+            {
+                <tr>
+                    <td>@(arrival.Line ?? "No disponible")</td>
+                    <td>@(arrival.Stop ?? "No disponible")</td>
+                    <td>@(arrival.Destination ?? "No disponible")</td>
+                    <td>@(arrival.EstimateArrive.HasValue ? Math.Ceiling((double)arrival.EstimateArrive.Value / 60) : "No disponible") minutos</td> <!-- Conversión a minutos -->
+                    <td>@(arrival.DistanceBus?.ToString() ?? "No disponible")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

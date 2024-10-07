@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\Clases\\Clasess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6CD4FA-F940-468B-AE47-323CEF07EB50}|Clasess.csproj|c:\\users\\alexis\\desktop\\proyectos\\net\\.net\\clases\\clasess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6CD4FA-F940-468B-AE47-323CEF07EB50}|Clasess.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6CD4FA-F940-468B-AE47-323CEF07EB50}|Clasess.csproj|c:\\users\\alexis\\desktop\\proyectos\\net\\.net\\clases\\clasess\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6CD4FA-F940-468B-AE47-323CEF07EB50}|Clasess.csproj|solutionrelative:empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\Clases\\Clasess\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\Clases\\Clasess\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:45:44.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\Clases\\Clasess\\Empleados.cs",
+              "RelativeDocumentMoniker": "Empleados.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\Clases\\Clasess\\Empleados.cs",
+              "RelativeToolTip": "Empleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:43:46.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

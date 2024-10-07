@@ -1,0 +1,15 @@
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\bin\Debug\net8.0\Clasess.exe
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\bin\Debug\net8.0\Clasess.deps.json
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\bin\Debug\net8.0\Clasess.runtimeconfig.json
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\bin\Debug\net8.0\Clasess.dll
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\bin\Debug\net8.0\Clasess.pdb
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\obj\Debug\net8.0\Clasess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\obj\Debug\net8.0\Clasess.AssemblyInfoInputs.cache
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\obj\Debug\net8.0\Clasess.AssemblyInfo.cs
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\obj\Debug\net8.0\Clasess.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\obj\Debug\net8.0\Clasess.sourcelink.json
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\obj\Debug\net8.0\Clasess.dll
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\obj\Debug\net8.0\refint\Clasess.dll
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\obj\Debug\net8.0\Clasess.pdb
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\obj\Debug\net8.0\Clasess.genruntimeconfig.cache
+C:\Users\Alexis\Desktop\proyectos\NET\.NET\Clases\Clasess\obj\Debug\net8.0\ref\Clasess.dll
