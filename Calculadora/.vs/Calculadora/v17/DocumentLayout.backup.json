@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{32F05B8C-793A-497F-80C4-33921078DD65}|CalculadoraProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{32F05B8C-793A-497F-80C4-33921078DD65}|CalculadoraProgram.csproj|c:\\users\\alexis\\desktop\\proyectos\\net\\.net\\calculadora\\informationoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F05B8C-793A-497F-80C4-33921078DD65}|CalculadoraProgram.csproj|solutionrelative:informationoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32F05B8C-793A-497F-80C4-33921078DD65}|CalculadoraProgram.csproj|c:\\users\\alexis\\desktop\\proyectos\\net\\.net\\calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32F05B8C-793A-497F-80C4-33921078DD65}|CalculadoraProgram.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "InformationOperation.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\Calculadora\\InformationOperation.cs",
+              "RelativeDocumentMoniker": "InformationOperation.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\Calculadora\\InformationOperation.cs",
+              "RelativeToolTip": "InformationOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:38:56.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Calculadora.cs",
               "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\Calculadora\\Calculadora.cs",
               "RelativeDocumentMoniker": "Calculadora.cs",
               "ToolTip": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\Calculadora\\Calculadora.cs",
               "RelativeToolTip": "Calculadora.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAC0AAABdAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T08:09:53.049Z",
               "EditorCaption": ""
@@ -39,9 +56,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\Calculadora\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\Calculadora\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\Calculadora\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T08:09:17.588Z",
               "EditorCaption": ""
