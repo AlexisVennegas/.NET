@@ -42,7 +42,7 @@ namespace EMTMADRID.Controllers
                 {
                     var timeController = new TimeController();
                     string responseTime = await timeController.GetBusArrivalsAsync(resultToken, stopId, lineArrive);
-
+                    Console.WriteLine(responseTime);
                     if (!string.IsNullOrEmpty(responseTime))
                     {
                         var model = JsonConvert.DeserializeObject<BusArrivalResponse>(responseTime);

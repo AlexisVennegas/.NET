@@ -1,4 +1,4 @@
-﻿using EMTMADRID.Controllers;    
+﻿using EMTMADRID.Controllers;
 using EMTMADRID.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
@@ -6,22 +6,16 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-public class StationController : Controller
+
+namespace EMTMADRID.Controllers
 {
-    private readonly DataController _dataController;
-
-    public StationController(DataController dataController)
-    {
-        _dataController = dataController;
-    }
-
     [HttpGet]
-    public async Task<JsonResult> GetNearbyStations()
+    public async Task<JsonResult> GenerateMapController()
     {
         // Aquí obtendremos la latitud y longitud de los parámetros de la solicitud
         double latitude = Convert.ToDouble(Request.Query["latitude"]);
         double longitude = Convert.ToDouble(Request.Query["longitude"]);
-         Console.WriteLine("Latitud: " + latitude); 
+        Console.WriteLine("Latitud: " + latitude);
         string accessToken = await _dataController.GetApiDataAsync();
         string url = $"https://api.emtmadrid.es/v1/estaciones/nearby?lat={latitude}&lon={longitude}";
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EMTMADRID")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1369c20155ec85dca9070a9ec70a9de0812ed230")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1203c7aaa72c05b78d5c9516e061abdc57b199c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("EMTMADRID")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EMTMADRID")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

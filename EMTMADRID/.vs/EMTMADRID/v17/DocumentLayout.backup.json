@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\EMTMADRID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F1B96E2-A825-4EB7-9166-9EC25724669E}|EMTMADRID.csproj|c:\\users\\alexis\\desktop\\proyectos\\net\\.net\\emtmadrid\\controllers\\stationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F1B96E2-A825-4EB7-9166-9EC25724669E}|EMTMADRID.csproj|solutionrelative:controllers\\stationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F1B96E2-A825-4EB7-9166-9EC25724669E}|EMTMADRID.csproj|c:\\users\\alexis\\desktop\\proyectos\\net\\.net\\emtmadrid\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{0F1B96E2-A825-4EB7-9166-9EC25724669E}|EMTMADRID.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F1B96E2-A825-4EB7-9166-9EC25724669E}|EMTMADRID.csproj|c:\\users\\alexis\\desktop\\proyectos\\net\\.net\\emtmadrid\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F1B96E2-A825-4EB7-9166-9EC25724669E}|EMTMADRID.csproj|solutionrelative:models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F1B96E2-A825-4EB7-9166-9EC25724669E}|EMTMADRID.csproj|c:\\users\\alexis\\desktop\\proyectos\\net\\.net\\emtmadrid\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F1B96E2-A825-4EB7-9166-9EC25724669E}|EMTMADRID.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F1B96E2-A825-4EB7-9166-9EC25724669E}|EMTMADRID.csproj|c:\\users\\alexis\\desktop\\proyectos\\net\\.net\\emtmadrid\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F1B96E2-A825-4EB7-9166-9EC25724669E}|EMTMADRID.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F1B96E2-A825-4EB7-9166-9EC25724669E}|EMTMADRID.csproj|c:\\users\\alexis\\desktop\\proyectos\\net\\.net\\emtmadrid\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F1B96E2-A825-4EB7-9166-9EC25724669E}|EMTMADRID.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\EMTMADRID\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\EMTMADRID\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-04T12:52:32.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Station.cs",
-              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\EMTMADRID\\Models\\Station.cs",
-              "RelativeDocumentMoniker": "Models\\Station.cs",
-              "ToolTip": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\EMTMADRID\\Models\\Station.cs",
-              "RelativeToolTip": "Models\\Station.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T12:51:15.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\EMTMADRID\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\EMTMADRID\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T12:50:58.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StationController.cs",
-              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\EMTMADRID\\Controllers\\StationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StationController.cs",
-              "ToolTip": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\EMTMADRID\\Controllers\\StationController.cs",
-              "RelativeToolTip": "Controllers\\StationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T12:44:16.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\EMTMADRID\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\EMTMADRID\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T12:18:13.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\EMTMADRID\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Alexis\\Desktop\\proyectos\\NET\\.NET\\EMTMADRID\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T09:48:35.348Z",
               "EditorCaption": ""
